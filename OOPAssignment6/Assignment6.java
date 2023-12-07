@@ -15,7 +15,7 @@ public class Assignment6 {
             BufferedReader br = new BufferedReader(in);
             System.out.println("Enter Number 1:");
             Num1 = Integer.parseInt(br.readLine());
-            System.out.println("Enter Number 1:");
+            System.out.println("Enter Number 2:");
             Num2 = Integer.parseInt(br.readLine());
             int result = Num1 / Num2;
             if (Num2 == 0) {
