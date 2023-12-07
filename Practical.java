@@ -64,7 +64,7 @@ class Generic {
     }
 }
 
-public class AssignmentNo7 {
+public class Practical {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             // Get user input for integers
